@@ -1,2 +1,0 @@
-# ShaderTest
-UnityShader and ShaderGraph
